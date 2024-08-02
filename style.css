@@ -48,7 +48,7 @@ a:active {
 }
 /*estilos do cabeçalho*/
 .cabecalho {
-	background-image: url("img/10632871-fundo-abstrato-onda-verde-gratis-vetor.png");
+	background-image: url("img/meio-rural-02-1024x576.png");
 	background-size: cover; /* Para cobrir todo o fundo */
     background-position: center; /* Centraliza a imagem */
     height: 100vh; /* Altura igual à altura da viewport */
@@ -93,7 +93,7 @@ a.cabecalho__botao {
 .secao1__titulo {
 	font-weight: 700;
 	font-size: 48px;
-	color: var(--preto-titulo);
+	color: var(--branco-titulo);
 	margin-bottom: 0.2em;
 }
 .secao1__texto {
