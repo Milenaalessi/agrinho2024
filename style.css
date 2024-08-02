@@ -49,13 +49,14 @@ a:active {
 /*estilos do cabeçalho*/
 .cabecalho {
 	background-image: url("img/10632871-fundo-abstrato-onda-verde-gratis-vetor.png");
-}
-.img {
-	
-	object-fit: cover;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center  center;
+	background-size: cover; /* Para cobrir todo o fundo */
+    background-position: center; /* Centraliza a imagem */
+    height: 100vh; /* Altura igual à altura da viewport */
+    margin: 0; /* Remove margens padrão do body */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
 }
 
 .logo__principal {
