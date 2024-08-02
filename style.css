@@ -48,7 +48,7 @@ a:active {
 }
 /*estilos do cabeçalho*/
 .cabecalho {
-	background-image: url("img/meio-rural-02-1024x576.png");
+	background-image: url("img/seguranca-rural-1024x684.png");
 	background-size: cover; /* Para cobrir todo o fundo */
     background-position: center; /* Centraliza a imagem */
     height: 100vh; /* Altura igual à altura da viewport */
@@ -98,12 +98,12 @@ a.cabecalho__botao {
 }
 .secao1__texto {
 	margin-top: 35px;
-	color: var(--preto-titulo);
+	color: var(--branco-titulo);
 	font-size: 30px;
 }
 /* estilo seção 2*/
 .secao2__img__titulo {
-	color: var(--preto-titulo);
+	color: var(--branco-titulo);
 	font-weight: 700;
 	font-size: 48px;
 	margin-left: 40px;
