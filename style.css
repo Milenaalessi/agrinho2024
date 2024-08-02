@@ -7,7 +7,7 @@
 	--verde-fundo: #deece7;
 	--branco-principal: #ffffff;
 	--fonte-principal: "Lustria";
-	--verde-principal: #427c5c;
+	--verde-principal: #00b609;
 	--azul-principal: #0169b4;
 	--verde-secundario: #313a22;
 	--link: #0a4804;
@@ -136,7 +136,7 @@ a.cabecalho__botao {
 }
 /* estilo seção 3*/
 .secao3__imagem {
-	background-image: url("img/seguranca-rural-1024x684.png");
+	background-image: url("img/meio-rural-02-1024x576.png");
 }
 .secao3__texto {
 	margin: 30%  0  30%  0;
